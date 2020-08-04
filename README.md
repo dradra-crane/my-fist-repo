@@ -1,1 +1,1 @@
-# my-fist-repo
+# awesome-repo
